@@ -1,0 +1,9 @@
+.anim-speed-10{
+  animation: bounce 10s linear infinite;
+}
+.anim-pulse-speed-10{
+  animation: pulse 10s linear infinite;
+}
+.anim-speed-20{
+  animation: spin 20s linear infinite;
+}
